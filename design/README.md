@@ -115,13 +115,3 @@
 - Botão de Inicio: Direciona o usuário a tela de inicial.
 - Fundo: Cinza escuro.
 
-### 5. Backend em Java
-
-- Login da página.
-- Listagem dos produtos.
-- Cadastro do usuario.
-- Cadastro de produtos.
-- Atualização de produtos.
-- Remoção de produtos
-
-
