@@ -26,11 +26,11 @@ Este projeto é um site de e-commerce especializado em hamburguerias, onde os us
 
 1. **Clone o repositório**:
    ```bash
-   git clone https://github.com/Joao-Lucas-Las-Casas/hamburguer-api.git
-   
+   git clone https://github.com/Joao-Lucas-Las-Casas/codegrill-frontend
+
 2. **Página do site**:
    ```bash
-   git pages https://joao-lucas-las-casas.github.io/hamburguer-api/
+   git pages https://joao-lucas-las-casas.github.io/codegrill-frontend/
 
 ## Participantes do Projeto
 
